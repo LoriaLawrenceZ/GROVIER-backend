@@ -216,7 +216,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jYssweteFKAgpMdDyCE-75" value="fk_id_sala: integer" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="4jYssweteFKAgpMdDyCE-73" vertex="1">
+        <mxCell id="4jYssweteFKAgpMdDyCE-75" value="fk_id_sala: integer NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="4jYssweteFKAgpMdDyCE-73" vertex="1">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
