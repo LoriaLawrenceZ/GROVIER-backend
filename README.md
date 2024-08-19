@@ -17,7 +17,7 @@
 
 # About the Project
 
-We understand that choosing a movie can take up a significant portion of your movie night. Our project aims to streamline this process by introducing timed sessions where each participant votes for their preferred movies. At the end of the session, the movie with the most votes or the one unanimously chosen will be played. This entire process is designed to be engaging and gamified, making movie selection both efficient and enjoyable.
+We all understand that choosing a movie can take up a significant portion of your movie night right? SO that's where this project enters, it aims to streamline this process by introducing timed sessions where each participant votes for their preferred movies. At the end of the session, the movie with the most votes or the one unanimously chosen will be played. This entire process is designed to be engaging and gamified, making movie selection both efficient and enjoyable.
 
 # Prerequisites
 
